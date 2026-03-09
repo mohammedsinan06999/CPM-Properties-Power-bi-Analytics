@@ -90,5 +90,4 @@ HR-Analytics-Dashboard
 ## Author
 Mohammed sinan
 
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile]
+
